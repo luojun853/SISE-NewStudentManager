@@ -14,5 +14,5 @@
 hs_err_pid*
 
 *.doc
-.idea
-out
+/.idea
+/out
